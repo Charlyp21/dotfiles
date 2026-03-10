@@ -122,6 +122,7 @@ mtools
 nano
 nano-syntax-highlighting
 ncdu
+neovim
 netctl
 networkmanager
 networkmanager-openconnect

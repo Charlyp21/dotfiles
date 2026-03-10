@@ -152,3 +152,6 @@ alias play-roblox='flatpak run org.vinegarhq.Sober && clean-roblox'
 
 # Alias Maestro Mejorado (Sincroniza archivos Y lista de apps)
 alias dotsync='cd ~/dotfiles && pacman -Qqen > pkglist.txt && pacman -Qqem > aur-pkglist.txt && git add . && git commit -m "Update: $(date +%Y-%m-%d %H:%M)" && git push origin master'
+
+# Alias para neovim
+alias v="vim"
