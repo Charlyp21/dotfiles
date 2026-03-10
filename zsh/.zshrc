@@ -149,3 +149,6 @@ alias neuro='cd ~/Documentos/Neuro && source neuro-env/bin/activate'
 alias clean-roblox='flatpak repair --user && rm -rf ~/.var/app/org.vinegarhq.Sober/cache/* 2>/dev/null && echo "✨ Caché de Sober purgada, Charly."'
 
 alias play-roblox='flatpak run org.vinegarhq.Sober && clean-roblox'
+
+# Alias Maestro Mejorado (Sincroniza archivos Y lista de apps)
+alias dotsync='cd ~/dotfiles && pacman -Qqen > pkglist.txt && pacman -Qqem > aur-pkglist.txt && git add . && git commit -m "Update: $(date +%Y-%m-%d %H:%M)" && git push origin master'
