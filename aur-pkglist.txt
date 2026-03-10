@@ -1,0 +1,8 @@
+catppuccin-plasma-colorscheme-mocha
+cbonsai
+kwin-polonium
+papirus-folders-catppuccin-git
+plasma6-applets-panel-colorizer
+unimatrix-git
+visual-studio-code-bin
+zen-browser-bin
