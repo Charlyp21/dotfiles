@@ -1,7 +1,6 @@
 # 🧠 Neuro-Dotfiles | EndeavourOS + KDE Plasma 6
 
-¡Hola! Soy Charly y este es mi entorno de alto rendimiento para **Neurociencias**. 
-Configurado con un flujo de trabajo minimalista, estético y libre de distracciones.
+¡Hola! Soy Charly y este es mi entorno preparado para instalarlo rapidamente en nuevos dispositivos con Endeavour OS.
 
 ## 🎨 Estética (Ricing)
 - **Tema:** Catppuccin Mocha (KDE & Konsole)
@@ -27,13 +26,13 @@ Para replicar este entorno en una máquina nueva con **EndeavourOS**:
 
 ## 🔬 Workflow Científico
 
-- Docker (Omni-Tools): Corriendo en localhost:8080.
-- Python: Stack científico (NumPy, Pandas, Seaborn, MNE).
+- **Docker (Omni-Tools)**: Corriendo en localhost:8080.
+- **Python**: Stack científico (NumPy, Pandas, Seaborn, MNE).
 
 ## 🛠️ Comandos Pro
 
-- dotsync: Sincroniza automáticamente mis cambios de config con GitHub.
-- v: Acceso rápido a Neovim.
+- `dotsync`: Sincroniza automáticamente mis cambios de config con GitHub.
+- `v`: Acceso rápido a Neovim.
 
 ---
 
